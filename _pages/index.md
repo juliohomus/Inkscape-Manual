@@ -10,11 +10,6 @@ permalink: /
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration. T T T T T T T T T T T T T TT
 </p>
-```
-{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
-```
-
-{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
 
 [[Tutorial]]
 
