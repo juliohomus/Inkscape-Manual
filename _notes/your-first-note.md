@@ -2,10 +2,15 @@
 title: Your first seed
 ---
 
-### Welcome!
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+### Olá!
+Esse é um manual detalhado de todas as funções do Inkscape.
 
+> Versão atual: 1.2
+
+Sua organização presume algum nível de familiaridade com o programa. Não sendo indicado para quem ainda não tem experiência básica com ele. Para iniciar no conhecimento básico do Inkscape, aproveite alguma das opções abaixo:
+
+Em geral, seguiremos a hierarquia da interface do programa. Mas em alguns casos específicos preferiremos agregar todas as funções referentes à uma funcionalidade ou fluxo de trabalho dentro de uma categoria separada.
 ### Link syntax
 
 To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
