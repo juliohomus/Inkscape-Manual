@@ -15,7 +15,7 @@ permalink: /
 
 \- Doug Engelbart, 1961
 ```
-[[Tutorial]]
+<span style="font-weight: bold">[[Tutorial]]</span>
 > tester
 \- george
 
