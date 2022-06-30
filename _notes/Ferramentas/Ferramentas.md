@@ -10,6 +10,7 @@ A barra de ferramentas agrega os principais recursos de criação e edição. Ab
 
 <img src="/assets/ferramentas.png"/>
 
+- [[Seletor]]: permite selecionar e modificar objetos.
 - Editor de nós: permite manipular os nós de um caminho.
 - Retângulo: Permite criar retângulos com o modificador de arredondamento dos cantos.
 - Círculo: Permite criar círculos, arcos e cordas
